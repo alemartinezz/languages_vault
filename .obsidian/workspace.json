@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "ae033505e5926b02",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7609f50e3a96798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d90acbd0bb936a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english/verb_tenses/3_past_simple.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb1a4d0bcd7e952b",
+    "type": "split",
+    "children": [
+      {
+        "id": "319acb3841646c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "572b637460753e59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af6bd2c5a40fa957",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68f2b2361e27fa01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc26ef31c9dea049",
+    "type": "split",
+    "children": [
+      {
+        "id": "637b17497a9c1eb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75beee49b75b9d6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "english/verb_tenses/3_past_simple.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1bd15278071a927",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "english/verb_tenses/3_past_simple.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0aac20798f861858",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab847978286d28da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "english/verb_tenses/3_past_simple.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "572b637460753e59",
+  "lastOpenFiles": [
+    "assets",
+    "english/if_clauses.md",
+    "english/phrasal_verbs.md",
+    "english/reported_speech.md",
+    "english/verb_tenses/1_present_simple.md",
+    "english/verb_tenses/2_present_continuous.md",
+    "english/verb_tenses/5_present_perfect.md",
+    "english/verb_tenses/4_past_continuous.md",
+    "english/verb_tenses/3_past_simple.md",
+    "english/verb_tenses/6_past_perfect.md",
+    "english/verb_tenses",
+    "deutsch",
+    "english",
+    "español",
+    "linux/crontab.md",
+    "README.md",
+    "linux/swap.md",
+    "codes/javascript.md",
+    "codes/nest.md",
+    "codes/git.md",
+    "tools/1_setup_dev_env.md",
+    "books/structure-and-interpretation-of-computer-programs.pdf",
+    "books/programming-interviews-exposed.pdf",
+    "books/CS345-Algorithms-II-Algorithm-Design-by-Jon-Kleinberg-Eva-Tardos (1).pdf",
+    "books/cracking-the-coding-interview.pdf",
+    "tools/2_ssh-keys.md",
+    "assets/image.png",
+    "assets/Pasted image 20231226122708.png",
+    "assets/Pasted image 20231226112616.png",
+    "assets",
+    "image.png",
+    "config_files/env.md",
+    "algorithms/3_intermediate.md",
+    "algorithms/2_basic.md",
+    "algorithms/1_introduction.md",
+    "algorithms/intermediate",
+    "tools/SQL.md",
+    "nest/database.md",
+    "nest/user.md",
+    "nest/start.md"
+  ]
+}

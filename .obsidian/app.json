@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "assets",
+  "showInlineTitle": false,
+  "defaultViewMode": "preview",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "propertiesInDocument": "visible"
+}
